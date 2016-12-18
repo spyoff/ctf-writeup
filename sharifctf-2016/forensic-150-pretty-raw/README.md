@@ -47,7 +47,7 @@ root@kali:~/sharifctf7/_pretty_raw.extracted# ls
 
 Show it on a file editor. It shows nothing but information of another file, probable the flag. It shows 1570 x 74 in the dimension, which is interesting. 
 
-![alt text](https://github.com/spyoff/ctf-writeup/raw/master/sharifctf-2016/reverse-50/string-search.png "Look at the file dimension")
+![alt text](https://github.com/spyoff/ctf-writeup/raw/master/sharifctf-2016/forensic-150-pretty-raw/png-extract.png "Look at the file dimension")
 
 1570 x 74 x 8 bit = 116,180 bytes
 Size of extracted png files is 53,833 bytes and size of pretty_raw files is 170,087 bytes, which left 116,254 on something.
