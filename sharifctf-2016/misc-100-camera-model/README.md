@@ -38,7 +38,7 @@ IIKJp
 %s*jp
 ```
 
-It might possible to reverse and extract the jpeg images, but i'm too lazy for that. Googling for dumping memory for a process: 
+It might possible to reverse and extract the jpeg images, but i'm too lazy for that. Googling for dumping memory of a process: 
 
 http://serverfault.com/questions/173999/dump-a-linux-processs-memory-to-file
 
