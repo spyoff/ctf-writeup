@@ -22,9 +22,9 @@ The task runs mainly using websocket on ctf.sharif.edu:4010
 ![alt text](https://github.com/spyoff/ctf-writeup/blob/master/sharifctf-2016/misc-150-lesula-isola/ws-lesula-isola.png?raw=true "Lesula Isola WS")
 
 Flow found:
-00 : we lose, we answer the question from bot
-01 : we win, we ask question to bot
-Question / answer list separated by #, and placement is random.
++ 00 : we lose, we answer the question from bot
++ 01 : we win, we ask question to bot
++ Question / answer list separated by #, and placement is random.
 
 Write a python script to automate learning, until eventually we win.
 
