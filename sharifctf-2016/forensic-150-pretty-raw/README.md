@@ -49,9 +49,7 @@ Show it on a file editor. It shows nothing but information of another file, prob
 
 ![alt text](https://github.com/spyoff/ctf-writeup/raw/master/sharifctf-2016/forensic-150-pretty-raw/png-extract.png "Look at the file dimension")
 
-1570 x 74 x 8 bit = 116,180 bytes
-Size of extracted png files is 53,833 bytes and size of pretty_raw files is 170,087 bytes, which left 116,254 on something.
-Cut the data in front of PNG header in a hex editor, and save it as other files. I use HxD for windows to simplify but you can use other tools such as xxd though.
+1570 x 74 x 8 bit = 116,180 bytes, Size of extracted png files is 53,833 bytes and size of pretty_raw files is 170,087 bytes, which left 116,254 on something. Cut the data in front of PNG header in a hex editor, and save it as other files. I use HxD for windows to simplify but you can use other tools such as xxd though.
 
 ![alt text](https://github.com/spyoff/ctf-writeup/raw/master/sharifctf-2016/forensic-150-pretty-raw/hexeditor-cut-file.png "Cutting the file through hex editor")
 
